@@ -1,0 +1,92 @@
+{
+    "data": [
+        {
+            "policyNumber": "5137001780",
+            "insured": "林左右",
+            "effectiveDate": "96/10/07",
+            "mainContract": "變額萬能壽險(VUL55N)",
+            "currency": "台幣",
+            "policyStatus": "有效付費中",
+            "paymentMethod": "銀行自動轉帳",
+            "singlePayment": "否"
+        },
+        {
+            "policyNumber": "5137001780",
+            "insured": "林左右",
+            "effectiveDate": "96/10/07",
+            "mainContract": "變額萬能壽險(VUL55N)",
+            "currency": "台幣",
+            "policyStatus": "有效付費中",
+            "paymentMethod": "銀行自動轉帳",
+            "singlePayment": "否"
+        },
+        {
+            "policyNumber": "5137001780",
+            "insured": "林左右",
+            "effectiveDate": "96/10/07",
+            "mainContract": "變額萬能壽險(VUL55N)",
+            "currency": "台幣",
+            "policyStatus": "有效付費中",
+            "paymentMethod": "銀行自動轉帳",
+            "singlePayment": "否"
+        },
+        {
+            "policyNumber": "5137001780",
+            "insured": "林左右",
+            "effectiveDate": "96/10/07",
+            "mainContract": "變額萬能壽險(VUL55N)",
+            "currency": "台幣",
+            "policyStatus": "有效付費中",
+            "paymentMethod": "銀行自動轉帳",
+            "singlePayment": "否"
+        },
+        {
+            "policyNumber": "5137001780",
+            "insured": "林左右",
+            "effectiveDate": "96/10/07",
+            "mainContract": "變額萬能壽險(VUL55N)",
+            "currency": "台幣",
+            "policyStatus": "有效付費中",
+            "paymentMethod": "銀行自動轉帳",
+            "singlePayment": "否"
+        },
+        {
+            "policyNumber": "5137001780",
+            "insured": "林左右",
+            "effectiveDate": "96/10/07",
+            "mainContract": "變額萬能壽險(VUL55N)",
+            "currency": "台幣",
+            "policyStatus": "有效付費中",
+            "paymentMethod": "銀行自動轉帳",
+            "singlePayment": "否"
+        },
+        {
+            "policyNumber": "5137001780",
+            "insured": "林左右",
+            "effectiveDate": "96/10/07",
+            "mainContract": "變額萬能壽險(VUL55N)",
+            "currency": "台幣",
+            "policyStatus": "有效付費中",
+            "paymentMethod": "銀行自動轉帳",
+            "singlePayment": "否"
+        },
+        {
+            "policyNumber": "5137001780",
+            "insured": "林左右",
+            "effectiveDate": "96/10/07",
+            "mainContract": "變額萬能壽險(VUL55N)",
+            "currency": "台幣",
+            "policyStatus": "有效付費中",
+            "paymentMethod": "銀行自動轉帳",
+            "singlePayment": "否"
+        }
+    ],
+    "return":{
+    "oLSM_ID":"W20051812345",
+    "policyID":"F9N7262766",
+    "applicationTime":"2020/05/18 13:15:20",
+    "policyName":"林左右",
+    "changeDate":"2020/05/19",
+    "paymentMethod":"自行繳納"
+    }
+}

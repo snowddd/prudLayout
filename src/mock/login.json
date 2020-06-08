@@ -1,0 +1,28 @@
+{
+    "user":{
+        "userNumber":"A123456789",
+        "userAccount":"P1911",
+        "userPassword":"DE.44"
+    },
+    "login":{
+        "token":"",
+        "isOverThreeMonth":false,
+        "hasEchangePermission":"y",
+        "userRole":"1",
+        "smsNumber":"",
+        "email":"",
+        "userName":"林左右"
+    },
+    "ServerStatus":{
+        "status":true,
+        "openTime":"14:25"
+    },
+    "getOTP":{
+        "result":"true",
+        "msg":"327"
+    },
+    "OTPValid":{
+        "result":"true",
+        "msg":"回應訊息"
+    }
+}

@@ -1,0 +1,149 @@
+.el-main, .el-header {
+  padding: 0 !important;
+}
+.el-header {
+  height: auto !important;
+  position: relative;
+  z-index: 9999;
+}
+.el-main {
+  height: 100%;
+  overflow: hidden;
+}
+.login-box {
+  .el-form-item__content {
+    margin-left: 0 !important;
+  }
+}
+
+//BUTTON
+.el-button:hover {
+  color: $txt-1 !important;
+}
+
+//容器
+.el-container {
+  position: relative;
+}
+
+//側邊欄
+.el-aside {
+  position: relative;
+  z-index: 2;
+  width: auto !important;
+  max-width: 100%!important;
+  height: 100% !important;
+  // overflow: hidden;
+}
+.el-submenu {
+  .el-menu-item {
+    font-size: 14px;
+    color: #fff !important;
+    // background-color: #004ca0 !important;
+    a {
+      color: $light-blue !important;
+    }
+  }
+  &.is-opened {
+    .el-submenu__title {
+      background-color: $light-blue !important;
+
+    }
+  }
+  .el-submenu__title {
+    padding-left: 2.5vw !important;
+    span {
+      font-size: 14px;
+    }
+    i {
+      color: #fff !important;
+    }
+  }
+  .el-menu--popup-right-start {
+    background-color: $deepBlue2 !important;
+  }
+}
+
+.el-step__head.is-process {
+  color: $light-blue !important;
+  border-color: $light-blue !important;
+}
+.el-step__title.is-process {
+  color: $light-blue !important;
+}
+//手風琴
+.policyloan-box {
+  .el-collapse {
+    border: none !important;
+  }
+}
+//table
+.policy-box {
+  .el-table {
+    border-radius: 10px;
+    &.mgt {
+      margin-top: 2vw;
+    }
+    th {
+      &>.cell {
+      color: $light-blue3;
+      }
+    }
+  }
+  .el-form-item__content {
+    margin-left: 0 !important;
+    .el-radio-group {
+      width: 100% !important;
+    }
+  }
+  .el-table__expanded-cell {
+    // background-color: $light-blue2 !important;
+    .el-form-item__label {
+      color: $deepBlue !important;
+     }
+     .el-form-item__content {
+       font-weight: bold;
+     }
+  }
+  .el-form-item__label {
+    padding: 0 !important;
+  }
+}
+//保單同意頁
+.agree-area {
+  .el-collapse-item__header {
+    color: $blue;
+    background: $light-blue2 !important;
+    padding-left: 1.5vw;
+    border-top-right-radius: 0.8vw;
+    border-top-left-radius: 0.8vw;
+  }
+  .el-collapse-item__wrap {
+    border-bottom-right-radius: 0.8vw;
+    border-bottom-left-radius: 0.8vw;
+  }
+  .el-collapse-item__content {
+    ul {
+      text-align: left;
+      padding: 2vw;
+    }
+  }
+
+}
+@media (max-width: 576px) {
+  .el-header {
+    // position: fixed;
+    // top: 13vw;
+    // z-index: 1;
+    // min-width: 375px !important;
+    // height: 13.3vw !important;
+  }
+  .el-aside {
+    &.showWidth {
+      width: 100% !important;
+    }
+    &.showTop {
+      border-bottom: #000;
+    }
+  }
+}

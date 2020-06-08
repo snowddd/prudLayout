@@ -1,0 +1,19 @@
+//共用button
+.el-button {
+  &.btn-blue {
+    background: $blue !important;
+    color: $txt-1;
+  } 
+  &.btn-deepblue {
+    background: $deepBlue !important;
+    color: $txt-1;
+  }
+  &.btn-gray {
+    background: $gray !important;
+    color: $txt-1;
+  }
+  &.btn-yellow-login {
+    background: $login-yellow !important;
+    color: $txt-1;
+  }
+}
